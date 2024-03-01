@@ -10,7 +10,7 @@
   
 <p align="center">  
   <a href="http://gg.gg/khalifa-group">
-    <img alt=LuciZR height="300" src="https://i.imgur.com/TVhmEFY.jpeg">
+    <img alt=LuciZR  src="https://i.imgur.com/TVhmEFY.jpeg">
    
 </a> 
     
