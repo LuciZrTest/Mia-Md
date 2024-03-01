@@ -47,10 +47,9 @@
     <br>
 <a href="https://github.com/LuciZR/Mia-Md/fork"><img title="𝑴𝑰𝑨 𝑴𝑫 ⚠︎" src="https://img.shields.io/badge/Fork Repo-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black"></a>
 
-2. Scan The Qr Code And Upload abhi.data.json To Your Fork🎯(Will Recieve It On Your Bot Number After Scanning)
+2. Get Session ID (Server 1)
     <br>
-<a href="https://session.guruapi.tech/pair"><img title="𝑴𝑰𝑨 𝑴𝑫 ⚠︎ Scan Qr" src="https://img.shields.io/badge/SCAN QR CODE-h?color=black&style=for-the-badge&logo=msi"></a>
-
+<a href='https://session.guruapi.tech/pair' target="_blank"><img alt='SESSION ID' src='https://img.shields.io/badge/Session_id-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
 
 ## 𝑴𝑰𝑨 𝑴𝑫 Deploy Method
 
