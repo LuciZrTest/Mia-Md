@@ -39,7 +39,7 @@
 
 1. Fork The Repo
     <br>
-<a href="https://github.com/LuciZR/KHALIFA-MD/fork"><img title="𝑴𝑰𝑨 𝑴𝑫 ⚠︎" src="https://img.shields.io/badge/Fork Repo-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black"></a>
+<a href="https://github.com/LuciZR/Mia-Md/fork"><img title="𝑴𝑰𝑨 𝑴𝑫 ⚠︎" src="https://img.shields.io/badge/Fork Repo-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black"></a>
 
 2. Scan The Qr Code And Upload abhi.data.json To Your Fork🎯(Will Recieve It On Your Bot Number After Scanning)
     <br>
@@ -51,7 +51,7 @@
 ---
 ### Deploy Heroku 
 
-<a href="https://heroku.com/deploy"><img title="𝑴𝑰𝑨 𝑴𝑫 ⚠︎ Deploy Heroku" src="https://img.shields.io/badge/DEPLOY HEROKU-h?color=black&style=for-the-badge&logo=heroku"></a>
+<a href="https://heroku.com/deploy?=https://github.com/LuciZR/Mia-Md"><img title="𝑴𝑰𝑨 𝑴𝑫 ⚠︎ Deploy Heroku" src="https://img.shields.io/badge/DEPLOY HEROKU-h?color=black&style=for-the-badge&logo=heroku"></a>
 
 ---
 ### Heroku Tutorial
